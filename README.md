@@ -12,7 +12,7 @@ Collaborators
 
 Requirements:
 
-Netbeans 8.0.2 or higher
+Netbeans 8.2 or higher
 
 PhpMyadmin sql database (Wamp/Xampp server)
 
@@ -29,7 +29,17 @@ How to use :
 
 ### To connect :
 
-Connect to the same internet. (If you're using windows, make sure to turn off firewall settings)
+Connect to the same internet. (If you're using windows, make sure to turn off firewall settings).
+
+Enter the url of localhost of the server and click on apply.
+
+Click on connect and select the mode you wish to use (read,write or read/write).
+
+Your art will start to appear on client's screen. 
+
+
+
+
 
 
 
