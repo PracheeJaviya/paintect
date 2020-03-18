@@ -35,7 +35,7 @@ Enter the url of localhost of the server and click on apply.
 
 Click on connect and select the mode you wish to use (read,write or read/write).
 
-Your art will start to appear on client's screen. 
+Your art will start to appear on client's screen! 
 
 
 
